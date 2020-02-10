@@ -1,0 +1,192 @@
+*{
+	margin: opx;
+	padding: opx;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+body{
+	background-color: #f6f9f9;
+	font-family: 'Lato', sans-serif;
+
+}
+/*header section start*/
+header{
+	padding: 26px 0px;
+	width:100%;
+	float: left;
+ }
+ .banner{
+ 	background: url(../img/bg.png)no-repeat;
+ 	background-size: cover; 
+ 	padding: 26px 0px;
+ 	width: 100%;
+ 	float: left;
+
+ }
+ .banner-main{
+ 	margin: 0 auto;
+    width: 60%  ;
+    text-align: center;
+    padding-top: 175px;
+    padding-bottom: 50px;
+}
+ .banner-main h2{
+ 	 font-size: 102px;
+    color: #fff;
+    font-weight: 700;
+ 	
+ }
+ .banner-main span{
+ 	
+display: block;
+ 	
+border-bottom: 2px solid #15a4fa;
+ 	
+width: 70%;
+ 	
+margin: 2% auto;
+ }
+ .banner-main p{
+ 	
+color: #fff;
+ 	
+font-size: 17px;
+ 	
+letter-spacing: 1px;
+ 	
+font-weight: 300;
+ }
+ .btn{
+
+padding: 9px 17px;
+
+background: transparent;
+
+border: 1px solid #15a4fa;
+
+margin: 31px 0px;
+
+color: #fff;
+
+font-size: 16px;
+
+}
+/*featurs section start*/
+.feature{
+	width: 100%;
+	float: left;
+}
+.feature-one {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.feature-one h2{
+
+}
+.feature-one p{
+	
+}
+.social-icon{
+	width: 100%;
+	float:left;
+	background: #fff;
+}
+.social-icon ul{
+	list-style: none;
+
+}
+.social-icon ul li{
+	display: inline-block;
+	margin: 25px
+
+
+}
+.social-icon ul li a{
+
+}
+.fa.fa-mobile{
+
+}
+.fa.fa-mobile h2{
+
+}
+.fa.fa-mobile {
+    background: #5FC3FF;
+    padding: 10px 10px;
+}
+.fa.fa-bullhorn {
+    background: #5FC3FF;
+    padding: 10px 10px;
+}
+.fa.fa-bullhorn h2{
+	
+}
+.fa.fa-bullhorn p{
+	
+}
+
+/*gallery section start*/
+
+ .gallery{
+ 	width: 100%;
+ 	float: left;
+ 	background: #f6f9f9
+ }
+.gallery-title{
+
+width: 55%;
+
+margin: 0 auto;
+
+text-align: center;
+}
+.gallery-title h2{
+
+margin-top: 24px;
+
+margin-bottom: 4px;
+}
+.gallery-title p{
+
+}
+.gallery-one{
+
+width: 30%;
+
+float: left;
+
+margin: 7px 17px;
+}
+.gallery-one img{
+
+}
+.contact{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #2c384c
+
+}
+.contact-form{
+	width: 620px;
+	margin: 0 auto;
+
+}
+.form-control {
+    width: 80%;
+    float: left;
+    padding: 5px;
+    height: 25px;
+    margin-right: 8px;
+}
+
+.cstm-textarea {
+    width: 82%;
+    float: left;
+    height: 95px;
+}
